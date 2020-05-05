@@ -1,6 +1,6 @@
 def introduction
-  puts name=Josh
-  puts language=ruby
+  puts name = Josh
+  puts language = ruby
 end
 
 def introduction_with_language(name, language)
