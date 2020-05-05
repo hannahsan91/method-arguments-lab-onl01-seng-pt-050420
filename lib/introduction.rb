@@ -1,5 +1,5 @@
 # lib/introduction.rb
 
-def introduction_with_language(name, #!/usr/bin/env ruby -wKU)
+def introduction_with_language(name)
   puts "Hi, my name is #{name}."
 end
